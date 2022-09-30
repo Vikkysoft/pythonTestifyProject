@@ -1,6 +1,6 @@
 # Declare a raw string
 
-name = r"My name is Agunbiade Victoria Bolupe.\n I live in Ibadan.\b"
+name = r"My name is Agunbiade Victoria.\n I live in Ibadan.\b"
 print(name)
 
 # Declare two strings with any value
