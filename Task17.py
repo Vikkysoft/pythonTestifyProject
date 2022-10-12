@@ -1,6 +1,4 @@
-
 class Human:
-
     name = "Princess"
     group = "Female"
 

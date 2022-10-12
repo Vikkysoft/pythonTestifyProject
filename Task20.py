@@ -1,6 +1,4 @@
-
 class Human:
-
     leg_count = 4
     name = "Unknown"
     gender = "Unknown"
@@ -16,12 +14,9 @@ class Man(Human):
         self.gender = gender
 
 
-
 class Woman(Human):
     name = "Janet"
     gender = "Female"
-
-
 
 
 human = Human()

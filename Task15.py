@@ -1,9 +1,8 @@
-
 my_list = ["Toyota", "Richie", "Lexus", 10, 56, "Python"]
 print("My list:", my_list)
 
-#my_list.sort()
-#print("sort-asc:", my_list)
+# my_list.sort()
+# print("sort-asc:", my_list)
 
 
 months_of_the_year = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"]
